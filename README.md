@@ -1,4 +1,4 @@
-# Aim-trainer
+# Aim trainer
 Aim trainer made with pygame (Python Module)
 
 Hello, I am Pol Comí and I really enjoy python and pygame.
